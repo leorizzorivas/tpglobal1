@@ -1,2 +1,8 @@
-h1{color:blueviolet;}
-h2{color:green}
+.fondo{background-image: url(./asset/landscape-3127859_1280.jpg);}
+.colornav{background-color: darkturquoise;}
+.titulo{color: rgb(255, 247, 12);}
+h2{color: yellow;}
+p{color:white;}
+.body{background-repeat: no-repeat;}
+li{color:white;}
+
