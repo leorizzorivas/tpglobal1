@@ -10,4 +10,7 @@ li{color:black}
 .fondo{background-size: 75%; 100%; }
 h1{color: black;}
 .titulo{color: black;}
-
+.fondo{background-size: cover;}
+h1{font-family: 'Times New Roman', Times, serif;
+font-size: 900%;}
+.pon {font-size: 300%;}
