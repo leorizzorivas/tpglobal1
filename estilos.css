@@ -1,8 +1,13 @@
-.fondo{background-image: url(./asset/landscape-3127859_1280.jpg);}
-.colornav{background-color: darkturquoise;}
+
+
 .titulo{color: rgb(255, 247, 12);}
-h2{color: yellow;}
-p{color:white;}
-.body{background-repeat: no-repeat;}
-li{color:white;}
+h2{color:black;}
+p{color:black}
+li{color:black}
+.fondo{background-color: blueviolet;}
+.fondo{background-image: url(./asset/namaste2.jpg) ;}
+.fondo{background-repeat: no-repeat;}
+.fondo{background-size: 75%; 100%; }
+h1{color: black;}
+.titulo{color: black;}
 
