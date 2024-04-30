@@ -14,3 +14,15 @@ h1{color: black;}
 h1{font-family: 'Times New Roman', Times, serif;
 font-size: 900%;}
 .pon {font-size: 300%;}
+.encabezado {display:flex;
+flex-direction: row;align-items:first baseline;justify-content: center;flex-direction: row;} 
+.ene2 {display:flexbox;flex-direction:row;}
+.titulo {color: rgb(142, 14, 82);}
+h1{color: rgb(241, 0, 129);}
+.pon {font-size: 200%;}
+.logo{background-size: cover;}
+header{display:flex;flex-direction: row;justify-content: center;}
+.pon {font-size: 100%;}
+.secciones{display:flex;flex-direction: row;}
+.ene2{display:flex;flex-direction: row;}
+.secciones{display:flex;flex-direction:row;}
